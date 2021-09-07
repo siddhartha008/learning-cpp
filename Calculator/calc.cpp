@@ -47,7 +47,7 @@ int main()
     }
     else
     {
-        cout << "Choose a valid option" << endl;
+        cout << "Choose a valid option." << endl;
         result = 0;
         // return 1 because we wanna quit the program if error choice
         return 1;
