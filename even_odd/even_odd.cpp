@@ -11,8 +11,11 @@ int main() {
     cin >> number; 
     if (number % 2 == 0) { 
         cout << "The number " << number << " is even." << endl; 
+        return 0;
     } else {
         cout << "The number " << number << " is odd." << endl; 
+        return 0;
     }
+    cout << "Thank you."
     return 0;
 }
