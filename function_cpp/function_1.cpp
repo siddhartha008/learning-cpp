@@ -7,6 +7,8 @@ int main()
 {
     cout << "main()\n";
     yourFunction();
+    yourFunction();
+    yourFunction();
     return 0;
 }
 
